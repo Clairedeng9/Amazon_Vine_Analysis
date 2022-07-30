@@ -21,3 +21,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - The percentage of vine reviews were 5 stars is `51.06%`; and the percentage of non-vine reviewers were 5 stars is `38.70%`
 
 ### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+- From the percentage of Vine reviews or non-Vine reviews, the 51.06% from vine reviews is greater than 38.70% from non-Vine reviews, which indicates that positive bias toward favorable reviews from Vine members in the dataset. However, the total vine reviews are only 94, comparing with the non vine reviews are 40,471, the volumn of vine reviews are far smaller than the volumn of non vine reviews. It is too early to say there is a positive bias, aggresively saying, there is a positive bias.
+
+- For additional analysis that I would do with the dataset is to approve if it is statistically significant, we will have a set of two samples hypothesis tests, H0 will be the mean percentages of vine reviews and non vine reviews are equal; H1 will be the mean of percentages of vine reviews is greater than the mean of percentages of non vine reviews.
