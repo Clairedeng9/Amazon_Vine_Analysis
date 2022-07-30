@@ -7,8 +7,17 @@ In this project, we choose one specific dataset named `amazon_reviews_us_Video_G
 
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
+![image](https://user-images.githubusercontent.com/103073631/181878773-ca82142b-35c5-4142-84b9-3908ad4c42b7.png)
+
+From above to answer below questions:
 How many Vine reviews and non-Vine reviews were there?
+- Total vine reviews are 94;
+- Total non-vine reviews are 40471.
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- There 48 vine reviews were 5 stars, and 15663 non-vine reviews were 5 stars.
+
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- The percentage of vine reviews were 5 stars is `51.06%`; and the percentage of non-vine reviewers were 5 stars is `38.70%`
 
 ### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
